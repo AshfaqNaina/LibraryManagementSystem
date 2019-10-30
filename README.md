@@ -3,7 +3,7 @@ Library-Management software
 is created by using C#.Net(Front end) and Microsoft SQL server (Back end) in the IDE(Microsoft Visual Studio 2017 Enterprise)
 *******************************************************************
 Library Management Software is managing book details, student details, books withdraw,
-books return in modern style UI design...and it is developed by 
+books return in modern style UI design...and it supports Email Services,it is developed by 
 *****Ashfaq******
 
 
